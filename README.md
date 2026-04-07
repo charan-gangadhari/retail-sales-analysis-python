@@ -1,7 +1,7 @@
 # Retail Sales Analysis using Python
 
 ## Objective
-To analyze retail sales data and identify trends across categories, regions, and time.
+The goal of this project is to analyze retail sales data and identify trends across categories, regions, and time.
 
 ## Tools Used
 - Python
@@ -9,14 +9,18 @@ To analyze retail sales data and identify trends across categories, regions, and
 - Matplotlib
 
 ## Key Steps
+- Data loading and inspection
 - Data cleaning and preprocessing
-- Category-wise and regional analysis
+- Category-wise and region-wise analysis
 - Visualization of sales trends
 
 ## Key Insights
-- Identified category-wise revenue distribution
-- Observed regional performance differences
-- Highlighted trends in sales over time
+- Technology category generated the highest revenue
+- Regional sales varied significantly across locations
+- Certain categories consistently outperformed others
 
 ## Project File
-- retail_sales_analysis.ipynb
+- Retail_Sales_Analysis_using_Python.ipynb
+
+## Learning Outcome
+This project helped me understand how to work with structured datasets, perform basic analysis, and generate insights using Python.

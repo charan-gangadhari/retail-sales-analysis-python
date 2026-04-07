@@ -1,3 +1,5 @@
+This project demonstrates basic data analysis using Python on a structured retail sales dataset, focusing on identifying trends across categories and regions.
+
 # Retail Sales Analysis using Python
 
 ## Objective
@@ -12,7 +14,7 @@ To analyze retail sales data and identify trends across categories, regions, and
 - Loaded and explored the dataset
 - Performed basic data cleaning and preprocessing
 - Conducted category-wise and region-wise analysis
-- Created visualizations to understand sales trends
+- Created basic visualizations to understand sales trends
 
 ## Key Insights
 - Technology category generated the highest revenue
@@ -24,3 +26,5 @@ To analyze retail sales data and identify trends across categories, regions, and
 
 ## Learning Outcome
 This project helped me build a basic understanding of working with structured data, performing analysis using Pandas, and visualizing insights using Matplotlib.
+
+This project reflects my initial steps in learning data analysis using Python.
